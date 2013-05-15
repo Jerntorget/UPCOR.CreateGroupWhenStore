@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Feature xmlns="http://schemas.microsoft.com/sharepoint/" Title="UPCOR - Skapa grupp när försäljningställe skapas" Description="Skapar en grupp när ett försäljningställe skapas" Id="9afbc9d1-5583-43bb-8c4b-3277f73fddbd" Scope="Web">
+  <ElementManifests>
+    <ElementManifest Location="StoreAddedER\Elements.xml" />
+  </ElementManifests>
+</Feature>

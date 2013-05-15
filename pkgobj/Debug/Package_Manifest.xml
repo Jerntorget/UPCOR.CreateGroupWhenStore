@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="8b2035c8-28b8-45eb-b5cc-e80939df95e7" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="UPCOR.CreateGroupWhenStore.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <FeatureManifests>
+    <FeatureManifest Location="UPCOR.CreateGroupWhenStore_CreateGroupWhenStore\Feature.xml" />
+  </FeatureManifests>
+</Solution>

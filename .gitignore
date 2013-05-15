@@ -1,0 +1,7 @@
+**.dll*
+**.pdb
+**.wsp
+**.resx
+**.resources
+obj/*
+Properties/Resources.Designer.cs
